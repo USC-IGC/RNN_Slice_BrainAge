@@ -1,4 +1,5 @@
-Accurate Brain Age Prediction Using\ Recurrent Slice-Based Networks
+Accurate Brain Age Prediction Using\ 
+Recurrent Slice-Based Networks
 ==================================================================
 
 Paper authors: *Pradeep K. Lam, Vigneshwaran Santhalingam, Parth Suresh, Rahul Baboota, Alyssa H. Zhu, Sophia I. Thomopoulos, Neda Jahanshad, Paul M. Thompson*
